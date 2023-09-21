@@ -18,3 +18,29 @@ Functionality: Users can view, modify, and remove existing orders. New orders ca
 Product Details
 Product Database: Maintains information about products, including names, descriptions, and units in stock.
 Functionality: Users have the ability to update, delete, or add new products to the database.
+
+Changing Customer, Order and Product  Details
+Log in to the application with your credentials.
+Navigate to the e.g.("Customer") tab.
+Locate the customer record you wish to modify.
+Click on the edit to open it.
+Edit the necessary information.
+Save the changes.
+
+Adding New Entries
+To add a new customer, order, or product entry:
+
+Log in to the application with your credentials.
+Access the respective section (Customer Details, Order Details, or Product Details).
+Look for the "Add New" or "Create" button.
+Fill in the required information for the new entry.
+Save the new entry.
+
+
+Deleting Entries
+To delete an existing customer, order, or product entry:
+
+Log in to the application with your credentials.
+Navigate to the relevant section (Customer Details, Order Details, or Product Details).
+Locate the entry you want to delete.
+click the delete button next to the rocored you want to delete 
